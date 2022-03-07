@@ -1,0 +1,4 @@
+Klasy:Person Adress Student Professor
+Person:Name(String);Surname(String) ;Age(int) 
+Metody:Introduce Yourself (String) 
+ 
